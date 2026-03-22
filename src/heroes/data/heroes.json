@@ -1,6 +1,16 @@
-[ { "id": 1, "alias":
- "Batman", "nombre_real":
-  "Bruce Wayne", "ciudad": "Gotham", "poder":
-   "Inteligencia y tecnologia" } 
-
+[
+  {
+    "id": 1,
+    "alias": "Batman",
+    "nombre_real": "Bruce Wayne",
+    "ciudad": "Gotham",
+    "poder": "Inteligencia y tecnologia"
+  },
+  {
+    "id": 2,
+    "alias": "Spiderman",
+    "nombre_real": "Peter Parker",
+    "ciudad": "Nueva York",
+    "poder": "Sentido aracnido y telaranas"
+  }
 ]
