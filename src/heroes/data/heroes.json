@@ -1,1 +1,6 @@
-[]
+[ { "id": 1, "alias":
+ "Batman", "nombre_real":
+  "Bruce Wayne", "ciudad": "Gotham", "poder":
+   "Inteligencia y tecnologia" } 
+
+]
